@@ -5,4 +5,4 @@ Most of our open-source work lives here on GitHub. Issues, PRs, and discussions 
 
 Website — [soralabs.io.vn](https://soralabs.io.vn/)
 
-Contact - hello@soralabs.io.vn
+Contact - hello@soralabs.studio
