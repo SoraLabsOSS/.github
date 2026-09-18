@@ -9,7 +9,7 @@ Contact - hello@soralabs.studio
 
 ## Supported by
 
-Sora UI is supported by the open-source ecosystem. Special thanks to:
+Our work at Sora Labs is supported by the open-source ecosystem. Special thanks to:
 
 <a href="https://mintlify.com" target="_blank" rel="noopener noreferrer">
   <picture>
