@@ -26,4 +26,12 @@ Our work at Sora Labs is supported by the open-source ecosystem. Special thanks 
     <img src="https://cdn.soralabs.studio/logos/partners/1password-light.svg" alt="1Password" height="24" />
   </picture>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a aria-label="Sponsored by Neon" href="https://neon.tech" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.soralabs.studio/logos/partners/neon-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.soralabs.studio/logos/partners/neon-light.svg" />
+    <img src="https://cdn.soralabs.studio/logos/partners/neon-light.svg" alt="Neon" height="24" />
+  </picture>
+</a>
 
