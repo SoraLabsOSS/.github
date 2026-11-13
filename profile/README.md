@@ -1,4 +1,4 @@
-# Sora Labs
+# Soralabs
 
 Sora Labs builds open-source **UI component libraries and developer tools** for modern web apps.
 Most of our open-source work lives here on GitHub. Issues, PRs, and discussions are welcome.
@@ -9,7 +9,7 @@ Contact - hello@soralabs.studio
 
 ## Supported by
 
-Our work at Sora Labs is supported by the open-source ecosystem. Special thanks to:
+Our work at Soralabs is supported by the open-source ecosystem. Special thanks to:
 
 <a href="https://mintlify.com" target="_blank" rel="noopener noreferrer">
   <picture>
